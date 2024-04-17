@@ -1,0 +1,3 @@
+﻿  TACHI.cpp
+C:\Users\Tachi\source\repos\TACHI\TACHI\TACHI.cpp(10,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  TACHI.vcxproj -> C:\Users\Tachi\source\repos\TACHI\Debug\TACHI.exe
